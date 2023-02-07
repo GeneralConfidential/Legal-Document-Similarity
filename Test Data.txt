@@ -1,0 +1,8 @@
+The complimenting datasets are created by having it processed on rewordify.com
+
+                   Similarity Score   100% Threshold
+MIT License          0.833333334           0.82
+GPL-3.0 Preamble     0.966666667           0.75
+Apache License       0.931034483           0.70
+IPA Font License     0.971153846           0.70
+QPL-1.0              0.957142857           0.75

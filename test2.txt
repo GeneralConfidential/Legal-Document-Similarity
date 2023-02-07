@@ -1,0 +1,44 @@
+Copyright (C) 1999 Trolltech AS, Norway.
+Everyone is permitted to copy and distribute this license document.
+
+The purpose of this license is to establish freedom to share and change the software controlled by this license under the open source model.
+
+This license applies to any software containing a written statement placed by the copyright holder saying that it may be distributed under the terms of the Q Public License version 1.0. Such software is (in this/within this) referred to as the Software. This license covers change and distribution of the Software, use of third-party computer program programs based on the Software, and development of free software which uses the Software.
+
+Granted Rights
+1. You are granted the non-exclusive rights explain in detail in this license if you agree to and obey any and all conditions in this license. Whole or partial distribution of the Software, or software items that link with the Software, in any form shows/indicates acceptance of this license.
+
+2. You may copy and distribute the Software in unmodified form gave/given that the whole package, including - but not restricted to - copyright, trademark (written statements) and (statements that weaken or put conditions on a bigger statement), as released by the first developer of the Software, is distributed.
+
+3. You may make changes to the Software and distribute your changes, in a form that is separate from the Software, such as patches. The following restrictions apply to changes:
+
+a. Changes must not change or remove any copyright (written statements) in the Software.
+
+b. When changes to the Software are released under this license, a non-exclusive royalty-free right is granted to the first developer of the Software to distribute your change in future versions of the Software gave/given such versions remain available under these terms in addition to any other license(s) of the first developer.
+
+4. You may distribute machine-executable forms of the Software or machine-executable forms of changed versions of the Software, gave/given that you meet these restrictions:
+
+a. You must include this license document in the distribution.
+
+b. You must secure/make sure of that all receivers of the machine-executable forms are also able to receive the complete machine-readable source code to the distributed Software, including all changes, without any charge beyond the costs of data move (from one place to another), and place well-known/obvious (written statements) in the distribution explaining this.
+
+c. You must secure/make sure of that all changes included in the machine-executable forms are available under the terms of this license.
+
+5. You may use the original or changed versions of the Software to collect/make, link and run computer program programs legally developed by you or by others.
+
+6. You may develop application programs, reusable parts/pieces and other software items that link with the original or changed versions of the Software. These items, when distributed, are subject to the following needed things:
+
+a. You must secure/make sure of that all receivers of machine-executable forms of these items are also able to receive and use the complete machine-readable source code to the items without any charge beyond the costs of data move (from one place to another).
+
+b. You must clearly and definitely license all receivers of your items to use and re-distribute original and changed versions of the items in both machine-executable and source code forms. The receivers must be able to do so without any charges at all, and they must be able to re-distribute to anyone they choose.
+
+c. If the items are not available to the general public, and the first developer of the Software requests a copy of the items, then you must supply one.
+
+Limits of (something you owe/something you're responsible for/disadvantage)
+In no event will the first developers or copyright holders be responsible for any damages at all, including - but not restricted to - lost money/money income or (money made/good things received) or other direct, indirect, special, (unplanned/minor event) or resulting damages, even if they have been (gave opinions about what could or should be done about a situation) of the possibility of such damages, except to the extent invariable law, if any, provides otherwise.
+
+No Warranty
+The Software and this license document are given AS IS with NO WARRANTY OF ANY KIND, INCLUDING THE WARRANTY OF DESIGN, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Choice of Law
+This license is ruled by/managed by the Laws of Norway. Arguments will be settled by Oslo City Court.
